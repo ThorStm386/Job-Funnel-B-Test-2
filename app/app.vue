@@ -1,7 +1,6 @@
 <template>
   <div class="landing">
     <section class="hero">
-      <img src="C:\Users\Win10 Pro x64\Documents\3_Internettechnologie - Client - Server\james-bond\public\images\casino.png" alt="Bond Villain Atmosphere" class="hero-img" />
       <h1>Die Bösewicht Bewerberbörse</h1>
       <p>Werde Teil des exklusiven 007-Universums – als Antagonist mit Stil.</p>
       <NuxtLink to="/apply" class="apply-btn">Bewirb dich als Bösewicht</NuxtLink>
